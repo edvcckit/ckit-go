@@ -7,3 +7,5 @@ type AnyValue struct {
 	Val any
 	Err error
 }
+
+var test = AnyValue{}
