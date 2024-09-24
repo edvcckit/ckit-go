@@ -1,4 +1,4 @@
-module github.com/edvcckit/ckit
+module github.com/edvcckit/ckit-go
 
 go 1.23.0
 
