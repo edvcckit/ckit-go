@@ -9,3 +9,4 @@ type AnyValue struct {
 }
 
 var test = AnyValue{}
+var test2 = AnyValue{}
